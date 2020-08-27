@@ -1,2 +1,2 @@
-# mypythonprogram
-All essential python projects and source codes for beginnners.
+# Python Projects
+All essential python projects and source codes to get started
