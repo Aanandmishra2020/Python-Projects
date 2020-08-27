@@ -1,2 +1,3 @@
 # Python Projects
-All essential python projects and source codes to get started
+All essential python projects and source codes to get started.
+Good luck!
